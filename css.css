@@ -456,6 +456,8 @@ a {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+    -webkit-border-radius: none;
+    border-radius: none;
 }
 
 form {
